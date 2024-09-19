@@ -1,0 +1,51 @@
+body{
+    background-color:blanchedalmond;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+label {
+    display:block;
+    margin-top:20px;
+    letter-spacing:1px;
+}
+.principal {
+    display:block;
+    margin:0 auto;
+    width:610px;
+    color:darkred;
+    text-align: center;
+    font-size: 30px;
+    
+}
+form {
+    margin:0 auto;
+    width:400px;
+}
+.Dni{
+    border-radius: 40px;
+    height: 35px;
+    width: 300px;
+    background-color: brown;
+    border: none;
+    color: blanchedalmond;
+    font-size: 20px;
+}
+.Letras{
+    border-radius: 40px;
+    height: 35px;
+    width: 300px;
+    background-color: brown;
+    border: none;
+    color: blanchedalmond;
+    font-size: 20px;
+}
+.boton{
+    width:105px;
+    height:50px;
+    border:none;
+    margin-top:20px;
+    cursor:pointer;
+    background-color: brown;
+    color: bisque;
+    font-size: 20px;
+}
